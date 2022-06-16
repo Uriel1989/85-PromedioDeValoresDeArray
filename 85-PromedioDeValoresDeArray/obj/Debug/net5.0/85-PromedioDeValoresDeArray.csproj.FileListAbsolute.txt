@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\ref\85-PromedioDeValoresDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\bin\Debug\net5.0\85-PromedioDeValoresDeArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\ref\85-PromedioDeValoresDeArray.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.genruntimeconfig.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\85-PromedioDeValoresDeArray\obj\Debug\net5.0\85-PromedioDeValoresDeArray.csproj.AssemblyReference.cache

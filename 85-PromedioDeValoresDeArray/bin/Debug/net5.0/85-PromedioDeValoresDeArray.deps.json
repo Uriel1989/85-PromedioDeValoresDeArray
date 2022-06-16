@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "85-PromedioDeValoresDeArray/1.0.0": {
+        "runtime": {
+          "85-PromedioDeValoresDeArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "85-PromedioDeValoresDeArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
